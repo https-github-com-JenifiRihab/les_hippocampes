@@ -1,11 +1,15 @@
 body{
-    background-color: white;
+    background-color: rgb(220, 232, 240);
+    text-align: center;
 }
 img{
  height: 200px;  
  width: 300px; 
 }
 p{
-    color: rgb(31, 5, 53);
+    color: rgb(6, 0, 8);
+}
+li{
+    display: inline;
 }
 
